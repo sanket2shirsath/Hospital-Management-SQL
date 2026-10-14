@@ -1,0 +1,1 @@
+SELECT * FROM hospitalmanagementdb.hospital_billing_summary;
